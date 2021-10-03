@@ -1,5 +1,4 @@
 ﻿#include <iostream>
-#define P 3.14
 using namespace std;
 int main()
 {
